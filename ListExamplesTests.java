@@ -19,4 +19,4 @@ public class ListExamplesTests {
 		assertArrayEquals(new String[]{ "a", "b", "c", "c", "d", "e" }, ListExamples.merge(l1, l2).toArray());
         }
 
-}
+} 
